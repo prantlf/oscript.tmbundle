@@ -1,0 +1,42 @@
+# OScript TextMate2 Bundle
+
+OScript is used for development with OpenText Content Server (Livelink).
+
+## Installation
+
+If you have only a web browser:
+
+1. Download the [zip archive with this repository].
+2. Unpack the downloaded archive.
+3. Rename the unpacked directory to `oscript.tmbundle`.
+4. Double click on `oscript.tmbundle` to install in TextMate.
+
+If you have a development environment with `git`, `make` and `plutil`:
+
+```
+git clone https://github.com/prantlf/oscript.tmbundle.git
+cd oscript.tmbundle
+make test install
+```
+
+The latter option will convert the source files to binary format for better performance and omit unnecessary files.
+
+## Features
+
+* Syntax Highlighting
+* Folding
+* Commenting / Uncommenting
+
+## Contributing
+
+In lieu of a formal styleguide, take care to maintain the existing coding
+style. Run `make test` to validate your changes.
+
+## License
+
+Copyright (c) 2020 Ferdinand Prantl
+
+Licensed under the [MIT license].
+
+[zip archive with this repository]: https://github.com/prantlf/oscript.tmbundle/archive/master.zip
+[MIT license]: ./LICENSE

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>prantlf@gmail.com</string>
+	<key>contactName</key>
+	<string>Ferdinand Prantl</string>
+	<key>description</key>
+	<string>OScript is used for development with OpenText Content Server (Livelink).</string>
+	<key>name</key>
+	<string>OScript</string>
+	<key>source</key>
+	<dict>
+		<key>method</key>
+		<string>git</string>
+		<key>url</key>
+		<string>git@github.com:prantlf/oscript.tmbundle</string>
+	</dict>
+	<key>uuid</key>
+	<string>A098C1C7-91E3-4913-8D03-D04F98C3DB32</string>
+</dict>
+</plist>

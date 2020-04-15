@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Indent</string>
+	<key>scope</key>
+	<string>source.oscript</string>
+	<key>settings</key>
+	<dict>
+		<key>decreaseIndentPattern</key>
+		<string>^\s*((\b(else|elseif|end|until)\b)|(\})|(\)))</string>
+		<key>increaseIndentPattern</key>
+		<string>((\b(case|default|do|else|for|function|if|object|repeat|switch|while)\b((?!\b(elseif|else|end|until)\b).)*)|(\{\s*))$</string>
+	</dict>
+	<key>uuid</key>
+	<string>3E64E5EC-85C5-409F-8E84-6263ACC568D0</string>
+</dict>
+</plist>
