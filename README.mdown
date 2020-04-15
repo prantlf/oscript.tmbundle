@@ -2,6 +2,16 @@
 
 OScript is used for development with OpenText Content Server (Livelink).
 
+## Examples
+
+An example of the syntax highlighting in the DarkLime theme:
+
+![Dark](images/dark.png)
+
+An example of the syntax highlighting in the Mac Classic theme:
+
+![Light](images/light.png)
+
 ## Installation
 
 If you have only a web browser:
@@ -32,6 +42,12 @@ The latter option will convert the source files to binary format for better perf
 In lieu of a formal styleguide, take care to maintain the existing coding
 style. Run `make test` to validate your changes.
 
+## Others
+
+Users of [Visual Studio Code] can enable the [OScript Extension]. Other editors with the syntax highlighting for OScript are based on [Scintilla], for example. [SciTE], [Geany], [Nodepad++] and [others] include a [colourful theme] for the [OScript lexer].
+
+Web pages can highlight the OScript syntax of a code example [using JavaScript].
+
 ## License
 
 Copyright (c) 2020 Ferdinand Prantl
@@ -39,4 +55,14 @@ Copyright (c) 2020 Ferdinand Prantl
 Licensed under the [MIT license].
 
 [zip archive with this repository]: https://github.com/prantlf/oscript.tmbundle/archive/master.zip
+[Visual Studio Code]: https://code.visualstudio.com/
+[OScript Extension]: https://marketplace.visualstudio.com/items?itemName=prantlf.vscode-oscript
+[Scintilla]: https://scintilla.org/
+[SciTE]: https://www.scintilla.org/SciTE.html
+[colourful theme]: https://sourceforge.net/p/scintilla/scite/ci/default/tree/src/oscript.properties
+[OScript lexer]: https://sourceforge.net/p/scintilla/code/ci/default/tree/lexers/LexOScript.cxx
+[Geany]: https://www.geany.org/
+[Nodepad++]: https://notepad-plus-plus.org/
+[others]: https://www.scintilla.org/ScintillaRelated.html
+[using JavaScript]: http://prantlf.blogspot.com/2012/07/oscript-syntax-highlighting-in-pure.html
 [MIT license]: ./LICENSE
