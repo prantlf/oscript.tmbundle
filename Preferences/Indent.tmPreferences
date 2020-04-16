@@ -8,10 +8,10 @@
 	<string>source.oscript</string>
 	<key>settings</key>
 	<dict>
-		<key>decreaseIndentPattern</key>
-		<string>^\s*((\b(else|elseif|end|until)\b)|(\})|(\)))</string>
 		<key>increaseIndentPattern</key>
-		<string>((\b(case|default|do|else|for|function|if|object|repeat|switch|while)\b((?!\b(elseif|else|end|until)\b).)*)|(\{\s*))$</string>
+		<string>((\b(case|default|do|else|for|function|if|object|repeat|script|switch|while)\b((?!\b(elseif|else|end|endscript|until)\b).)*)|(\{\s*))$</string>
+		<key>decreaseIndentPattern</key>
+		<string>^\s*((\b(else|elseif|end|endscript|until)\b)|(\})|(\)))</string>
 	</dict>
 	<key>uuid</key>
 	<string>3E64E5EC-85C5-409F-8E84-6263ACC568D0</string>

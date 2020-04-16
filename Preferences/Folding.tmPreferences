@@ -9,9 +9,9 @@
 	<key>settings</key>
 	<dict>
 		<key>foldingStartMarker</key>
-		<string>\b(do|if|function|object|repeat|while)\b|#(ifdef|ifndef)\b|{[ \t]*$</string>
+		<string>\b(do|if|function|object|repeat|script|while)\b|#(ifdef|ifndef)\b|{[ \t]*$</string>
 		<key>foldingStopMarker</key>
-		<string>(\bend|until|#endif)\b|^\s*}</string>
+		<string>(\bend|endscript|until|#endif)\b|^\s*}</string>
 	</dict>
 	<key>uuid</key>
 	<string>D0303D13-EC9F-4B02-B840-9073638CAE64</string>

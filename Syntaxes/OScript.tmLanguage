@@ -8,7 +8,7 @@
 		<string>osx</string>
 	</array>
 	<key>comment</key>
-	<string>OScript Syntax version 0.0.1</string>
+	<string>OScript Syntax version 0.0.2</string>
 	<key>name</key>
 	<string>OScript</string>
 	<key>patterns</key>
@@ -163,7 +163,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>(?i)\b(break|breakif|by|case|continue|continueif|default|downto|else|elseif|end|for|goto|if|in|repeat|return|switch|to|until|while)\b</string>
+			<string>(?i)\b(break|breakif|by|case|continue|continueif|default|downto|else|elseif|end|endscript|for|goto|if|in|repeat|return|switch|to|until|while)\b</string>
 			<key>name</key>
 			<string>keyword.control.oscript</string>
 		</dict>
