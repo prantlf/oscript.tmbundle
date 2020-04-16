@@ -1,3 +1,5 @@
-{"commits":[{"commit":"9d8fecd97b312d14100ec4597fa0d97000998d82","date":"2020-04-15T17:06:27+02:00","author":"Ferdinand Prantl","summary":"Add-examples-of-syntax-higlighting-and-external-references"},
+{"commits":[{"commit":"b5651aeaadf819582565a6e781db120af54173ea","date":"2020-04-16T23:33:17+02:00","author":"Ferdinand Prantl","summary":"Recognize-keywords-script-and-endscript"},
+{"commit":"110c6145af090a5a277934ed96ec1dd8b23c4baa","date":"2020-04-15T17:08:39+02:00","author":"Ferdinand Prantl","summary":"Update-changelog"},
+{"commit":"9d8fecd97b312d14100ec4597fa0d97000998d82","date":"2020-04-15T17:06:27+02:00","author":"Ferdinand Prantl","summary":"Add-examples-of-syntax-higlighting-and-external-references"},
 {"commit":"8c55b1a7933deacde7e04d508fed47c6eddeb24c","date":"2020-04-15T16:42:50+02:00","author":"Ferdinand Prantl","summary":"Add-changelog"},
 {"commit":"da828e90acfd206ed0b789c2c8b8fd7f9919b66a","date":"2020-04-15T16:29:08+02:00","author":"Ferdinand Prantl","summary":"Initial-commit"}],"name":"OScript"}
